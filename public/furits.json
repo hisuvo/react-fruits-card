@@ -1,0 +1,122 @@
+[
+    {
+        "Id": 1,
+        "fruits_image": "https://i.ibb.co.com/sPKQDd7/apple.jpg",
+        "fruits_name": "Apple",
+        "description": "A versatile and nutritious fruit, apples are known for their crisp texture and sweet, juicy flavor. They come in various varieties like red, green, and yellow, and are rich in fiber and antioxidants. Apples are great for snacking, baking, or adding to salads.",
+        "price": 0.99,
+        "isFresh": true,
+        "reviews": [
+            "Crisp and delicious!",
+            "Great for a snack."
+        ]
+    },
+    {
+        "Id": 2,
+        "fruits_image": "https://i.ibb.co.com/QdZZVDz/Banana.jpg",
+        "fruits_name": "Banana",
+        "description": "A popular fruit with soft, creamy flesh and a natural sweetness. Bananas are a great source of potassium and make for a perfect snack on the go. Their smooth texture and mild flavor make them ideal for smoothies, baking, or simply eating fresh.",
+        "price": 0.49,
+        "isFresh": true,
+        "reviews": [
+            "Perfect for smoothies.",
+            "Always fresh and tasty."
+        ]
+    },
+    {
+        "Id": 3,
+        "fruits_image": "https://i.ibb.co.com/k0v32Sg/Orange.jpg",
+        "fruits_name": "Orange",
+        "description": "Oranges are juicy, tangy, and packed with vitamin C. Their bright orange skin and refreshing flavor make them a favorite among citrus lovers. Whether enjoyed as a snack, juiced, or added to recipes, oranges provide a burst of flavor and nutritional benefits.",
+        "price": 0.79,
+        "isFresh": true,
+        "reviews": [
+            "Very juicy and flavorful.",
+            "Great source of Vitamin C."
+        ]
+    },
+    {
+        "Id": 4,
+        "fruits_image": "https://i.ibb.co.com/qDRrcZf/Strawberry.jpg",
+        "fruits_name": "Strawberry",
+        "description": "Sweet and juicy, strawberries are a beloved fruit known for their vibrant red color and heart-shaped appearance. They're packed with vitamins, antioxidants, and fiber, making them a delicious and healthy treat. Perfect for eating fresh, in desserts, or smoothies.",
+        "price": 1.99,
+        "isFresh": true,
+        "reviews": [
+            "Super sweet and fresh.",
+            "Perfect for desserts."
+        ]
+    },
+    {
+        "Id": 5,
+        "fruits_image": "https://i.ibb.co.com/j3F9MFD/Grapes.jpg",
+        "fruits_name": "Grapes",
+        "description": "Small, sweet, and juicy, grapes are a favorite for snacking. They come in different varieties, including red, green, and black, each offering a burst of flavor. Grapes are packed with antioxidants and can be enjoyed fresh or used in various culinary dishes.",
+        "price": 2.49,
+        "isFresh": true,
+        "reviews": [
+            "Sweet and seedless.",
+            "Good for snacking."
+        ]
+    },
+    {
+        "Id": 6,
+        "fruits_image": "https://i.ibb.co.com/Pj81V7V/Mango.jpg",
+        "fruits_name": "Mango",
+        "description": "A tropical delight, mangoes are known for their rich, sweet, and juicy flavor. With a vibrant orange flesh and a smooth, soft texture, they are perfect for enjoying fresh, in smoothies, or as part of savory dishes. High in vitamins A and C.",
+        "price": 1.49,
+        "isFresh": true,
+        "reviews": [
+            "Very flavorful and fresh.",
+            "Makes great smoothies."
+        ]
+    },
+    {
+        "Id": 7,
+        "fruits_image": "https://i.ibb.co.com/9c0M1wS/Watermelon.jpg",
+        "fruits_name": "Watermelon",
+        "description": "A refreshing summer fruit, watermelon is known for its large size, green rind, and juicy, sweet red flesh. Rich in water content and low in calories, it's perfect for hydrating on hot days. Watermelon can be enjoyed fresh, in salads, or as a cool treat.",
+        "price": 3.99,
+        "isFresh": true,
+        "reviews": [
+            "Perfect for hot days.",
+            "Juicy and sweet."
+        ]
+    },
+    {
+        "Id": 8,
+        "fruits_image": "https://i.ibb.co.com/4tvS7mj/Pineapple.jpg",
+        "fruits_name": "Pineapple",
+        "description": "A tropical fruit with a tough, spiky exterior and sweet, tangy flesh inside. Pineapples are rich in vitamin C and bromelain, making them not only delicious but also great for digestion. They are perfect for grilling, juicing, or enjoying fresh.",
+        "price": 2.99,
+        "isFresh": true,
+        "reviews": [
+            "Tangy and sweet.",
+            "Great for grilling."
+        ]
+    },
+    {
+        "Id": 9,
+        "fruits_image": "https://i.ibb.co.com/HYsRLBq/Kiwi.jpg",
+        "fruits_name": "Kiwi",
+        "description": "Kiwis are small, brown-skinned fruits with a vibrant green interior, filled with tiny seeds. Known for their tart and refreshing flavor, they are rich in vitamin C and fiber. Kiwis can be eaten on their own or added to fruit salads and desserts.",
+        "price": 0.89,
+        "isFresh": true,
+        "reviews": [
+            "Very tart and refreshing.",
+            "Unique flavor."
+        ]
+    },
+    {
+        "Id": 10,
+        "fruits_image": "https://i.ibb.co.com/sH52mBM/Blueberry.jpg",
+        "fruits_name": "Blueberry",
+        "description": "Blueberries are tiny, deep blue fruits known for their sweet and slightly tart flavor. Packed with antioxidants and vitamins, they are considered a superfood. Blueberries are perfect for eating fresh, adding to cereals, yogurt, or baking into muffins and pies.",
+        "price": 3.49,
+        "isFresh": true,
+        "reviews": [
+            "Great in yogurt.",
+            "Fresh and sweet."
+        ]
+    }
+]
